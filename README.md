@@ -5,5 +5,3 @@ O projeto conta com o uso de html,css e javacript com uma página responsiva e f
 
 
 Você pode checar seu funcionamento no site abaixo
-
-https://calculadora-sigma-lime.vercel.app
